@@ -38,9 +38,7 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jackecarmona&show_icons=true&theme=radial" alt="Estadísticas de Jackeline" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackecarmona&layout=compact&theme=radial" alt="Lenguajes más usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackecarmona&theme=dark" alt="Racha de contribuciones" />
 </p>
 
 <!--
